@@ -5,3 +5,7 @@ dist/
 */**/cassettes/*
 .env
 .aider*
+
+# Do not ignore frontend directory
+!frontend/
+.aider*
